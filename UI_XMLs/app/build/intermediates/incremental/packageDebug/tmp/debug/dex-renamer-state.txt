@@ -1,0 +1,4 @@
+#Thu Jun 18 18:36:59 IRDT 2020
+base.0=E\:\\Term 8\\project\\Howzit\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+path.0=classes.dex
+renamed.0=classes.dex
